@@ -166,3 +166,1080 @@
 [2023-05-16 11:01:46.894] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
 [2023-05-16 11:01:46.894] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
 [2023-05-16 11:01:46.894] [warning] GeometryPath 'geometrypath' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+<<<<<<< Updated upstream
+[2025-10-23 17:07:20.801] [info] Updating Model file from 30000 to latest format...
+[2025-10-23 17:07:20.874] [info] Loaded model MoBL_ARMS_Upper_Limb_Model_OpenSim from file D:/GitHub_Project/PathologicalTremorModel/ModelFiles/MoBL_ARMS_module6_7_CMC.osim
+[2025-10-23 17:07:20.920] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-23 17:07:20.921] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-23 17:07:21.600] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.600] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.600] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.601] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.611] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.612] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.613] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.614] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.615] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-23 17:07:21.616] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-23 17:07:29.377] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-23 17:07:29.377] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+=======
+[2025-10-24 13:16:34.827] [info] Updating Model file from 30000 to latest format...
+[2025-10-24 13:16:34.876] [info] Loaded model MoBL_ARMS_Upper_Limb_Model_OpenSim from file D:/GitHub_Project/PathologicalTremorModel/ModelFiles/MoBL_ARMS_module6_7_CMC.osim
+[2025-10-24 13:16:34.905] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 13:16:34.905] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.399] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.400] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:16:35.401] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 13:16:35.402] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 13:16:35.402] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 13:22:01.739] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 13:22:01.739] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:16:03.195] [info] Updating Model file from 30000 to latest format...
+[2025-10-24 14:16:03.237] [info] Loaded model MoBL_ARMS_Upper_Limb_Model_OpenSim from file D:/GitHub_Project/PathologicalTremorModel/ModelFiles/MoBL_ARMS_module6_7_CMC.osim
+[2025-10-24 14:16:03.238] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:16:03.238] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:16:03.244] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.244] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.244] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.244] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.244] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'default'. The duplicate is being renamed to 'default_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.245] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.246] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_2'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_0'.
+[2025-10-24 14:16:03.247] [warning] GeometryPath 'path' has subcomponents with duplicate name 'pathwrap'. The duplicate is being renamed to 'pathwrap_1'.
+[2025-10-24 14:18:39.159] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:18:39.159] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:20:47.161] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:20:47.161] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:20:47.178] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:20:47.178] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:20:47.226] [warning] Running tool MoBL_ARMS_Upper_Limb_Model_OpenSim...
+[2025-10-24 14:20:47.226] [info] No external loads will be applied (external loads file not specified).
+[2025-10-24 14:20:47.227] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:20:47.227] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:20:47.243] [cout] [info] MODEL: MoBL_ARMS_Upper_Limb_Model_OpenSim
+
+numStates = 142
+numCoordinates = 21
+numSpeeds = 21
+numActuators = 50
+numBodies = 12
+numConstraints = 13
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 12)
+body[0] = thorax. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[1] = clavicle. mass: 0.156
+              moments of inertia:  ~[0.00024259,0.00025526,4.442e-05]
+              products of inertia: ~[-1.898e-05,-6.994e-05,5.371e-05]
+body[2] = clavphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[3] = scapula. mass: 0.70396
+              moments of inertia:  ~[0.0012429,0.0011504,0.0013651]
+              products of inertia: ~[0.0004494,0.00040922,0.0002411]
+body[4] = scapphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[5] = humphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[6] = humphant1. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[7] = humerus. mass: 1.99757
+              moments of inertia:  ~[0.0122776,0.00255133,0.0125789]
+              products of inertia: ~[-0.00034741,-0.0002325,0.0012293]
+body[8] = ulna. mass: 1.1053
+              moments of inertia:  ~[0.00541309,0.00115318,0.00494361]
+              products of inertia: ~[0.00031686,-7.615e-05,0.00109169]
+body[9] = radius. mass: 0.23359
+              moments of inertia:  ~[0.00043855,8.859e-05,0.00040258]
+              products of inertia: ~[3.014e-05,-4.24e-06,6.418e-05]
+body[10] = proximal_row. mass: 0.0001
+              moments of inertia:  ~[1e-05,1e-05,1e-05]
+              products of inertia: ~[0,0,0]
+body[11] = hand. mass: 0.5819
+              moments of inertia:  ~[0.00011,6e-05,0.00015]
+              products of inertia: ~[9e-07,-2e-07,1.2e-05]
+
+JOINTS (total: 12)
+joint[0] = groundthorax. parent: ground_offset, child: thorax_offset
+joint[1] = sternoclavicular. parent: thorax_offset, child: clavicle_offset
+joint[2] = unrotscap. parent: clavicle_offset, child: clavphant_offset
+joint[3] = acromioclavicular. parent: clavphant_offset, child: scapula_offset
+joint[4] = unrothum. parent: scapula_offset, child: scapphant_offset
+joint[5] = shoulder0. parent: scapphant_offset, child: humphant_offset
+joint[6] = shoulder1. parent: humphant_offset, child: humphant1_offset
+joint[7] = shoulder2. parent: humphant1_offset, child: humerus_offset
+joint[8] = elbow. parent: humerus_offset, child: ulna_offset
+joint[9] = radioulnar. parent: ulna_offset, child: radius_offset
+joint[10] = radiocarpal. parent: radius_offset, child: proximal_row_offset
+joint[11] = wrist_hand. parent: proximal_row_offset, child: hand_offset
+
+ACTUATORS (total: 50)
+actuator[0] = DELT1
+actuator[1] = DELT2
+actuator[2] = DELT3
+actuator[3] = SUPSP
+actuator[4] = INFSP
+actuator[5] = SUBSC
+actuator[6] = TMIN
+actuator[7] = TMAJ
+actuator[8] = PECM1
+actuator[9] = PECM2
+actuator[10] = PECM3
+actuator[11] = LAT1
+actuator[12] = LAT2
+actuator[13] = LAT3
+actuator[14] = CORB
+actuator[15] = TRIlong
+actuator[16] = TRIlat
+actuator[17] = TRImed
+actuator[18] = ANC
+actuator[19] = SUP
+actuator[20] = BIClong
+actuator[21] = BICshort
+actuator[22] = BRA
+actuator[23] = BRD
+actuator[24] = ECRL
+actuator[25] = ECRB
+actuator[26] = ECU
+actuator[27] = FCR
+actuator[28] = FCU
+actuator[29] = PL
+actuator[30] = PT
+actuator[31] = PQ
+actuator[32] = FDSL
+actuator[33] = FDSR
+actuator[34] = FDSM
+actuator[35] = FDSI
+actuator[36] = FDPL
+actuator[37] = FDPR
+actuator[38] = FDPM
+actuator[39] = FDPI
+actuator[40] = EDCL
+actuator[41] = EDCR
+actuator[42] = EDCM
+actuator[43] = EDCI
+actuator[44] = EDM
+actuator[45] = EIP
+actuator[46] = EPL
+actuator[47] = EPB
+actuator[48] = FPL
+actuator[49] = APL
+
+STATES (total: 142)
+y[0] = /jointset/groundthorax/r_z/value
+y[1] = /jointset/groundthorax/r_z/speed
+y[2] = /jointset/sternoclavicular/sternoclavicular_r2/value
+y[3] = /jointset/sternoclavicular/sternoclavicular_r2/speed
+y[4] = /jointset/sternoclavicular/sternoclavicular_r3/value
+y[5] = /jointset/sternoclavicular/sternoclavicular_r3/speed
+y[6] = /jointset/unrotscap/unrotscap_r3/value
+y[7] = /jointset/unrotscap/unrotscap_r3/speed
+y[8] = /jointset/unrotscap/unrotscap_r2/value
+y[9] = /jointset/unrotscap/unrotscap_r2/speed
+y[10] = /jointset/acromioclavicular/acromioclavicular_r2/value
+y[11] = /jointset/acromioclavicular/acromioclavicular_r2/speed
+y[12] = /jointset/acromioclavicular/acromioclavicular_r3/value
+y[13] = /jointset/acromioclavicular/acromioclavicular_r3/speed
+y[14] = /jointset/acromioclavicular/acromioclavicular_r1/value
+y[15] = /jointset/acromioclavicular/acromioclavicular_r1/speed
+y[16] = /jointset/unrothum/unrothum_r1/value
+y[17] = /jointset/unrothum/unrothum_r1/speed
+y[18] = /jointset/unrothum/unrothum_r3/value
+y[19] = /jointset/unrothum/unrothum_r3/speed
+y[20] = /jointset/unrothum/unrothum_r2/value
+y[21] = /jointset/unrothum/unrothum_r2/speed
+y[22] = /jointset/shoulder0/elv_angle/value
+y[23] = /jointset/shoulder0/elv_angle/speed
+y[24] = /jointset/shoulder1/shoulder_elv/value
+y[25] = /jointset/shoulder1/shoulder_elv/speed
+y[26] = /jointset/shoulder1/shoulder1_r2/value
+y[27] = /jointset/shoulder1/shoulder1_r2/speed
+y[28] = /jointset/shoulder2/shoulder_rot/value
+y[29] = /jointset/shoulder2/shoulder_rot/speed
+y[30] = /jointset/elbow/elbow_flexion/value
+y[31] = /jointset/elbow/elbow_flexion/speed
+y[32] = /jointset/radioulnar/pro_sup/value
+y[33] = /jointset/radioulnar/pro_sup/speed
+y[34] = /jointset/radiocarpal/deviation/value
+y[35] = /jointset/radiocarpal/deviation/speed
+y[36] = /jointset/radiocarpal/flexion/value
+y[37] = /jointset/radiocarpal/flexion/speed
+y[38] = /jointset/wrist_hand/wrist_hand_r1/value
+y[39] = /jointset/wrist_hand/wrist_hand_r1/speed
+y[40] = /jointset/wrist_hand/wrist_hand_r3/value
+y[41] = /jointset/wrist_hand/wrist_hand_r3/speed
+y[42] = /forceset/DELT1/activation
+y[43] = /forceset/DELT1/fiber_length
+y[44] = /forceset/DELT2/activation
+y[45] = /forceset/DELT2/fiber_length
+y[46] = /forceset/DELT3/activation
+y[47] = /forceset/DELT3/fiber_length
+y[48] = /forceset/SUPSP/activation
+y[49] = /forceset/SUPSP/fiber_length
+y[50] = /forceset/INFSP/activation
+y[51] = /forceset/INFSP/fiber_length
+y[52] = /forceset/SUBSC/activation
+y[53] = /forceset/SUBSC/fiber_length
+y[54] = /forceset/TMIN/activation
+y[55] = /forceset/TMIN/fiber_length
+y[56] = /forceset/TMAJ/activation
+y[57] = /forceset/TMAJ/fiber_length
+y[58] = /forceset/PECM1/activation
+y[59] = /forceset/PECM1/fiber_length
+y[60] = /forceset/PECM2/activation
+y[61] = /forceset/PECM2/fiber_length
+y[62] = /forceset/PECM3/activation
+y[63] = /forceset/PECM3/fiber_length
+y[64] = /forceset/LAT1/activation
+y[65] = /forceset/LAT1/fiber_length
+y[66] = /forceset/LAT2/activation
+y[67] = /forceset/LAT2/fiber_length
+y[68] = /forceset/LAT3/activation
+y[69] = /forceset/LAT3/fiber_length
+y[70] = /forceset/CORB/activation
+y[71] = /forceset/CORB/fiber_length
+y[72] = /forceset/TRIlong/activation
+y[73] = /forceset/TRIlong/fiber_length
+y[74] = /forceset/TRIlat/activation
+y[75] = /forceset/TRIlat/fiber_length
+y[76] = /forceset/TRImed/activation
+y[77] = /forceset/TRImed/fiber_length
+y[78] = /forceset/ANC/activation
+y[79] = /forceset/ANC/fiber_length
+y[80] = /forceset/SUP/activation
+y[81] = /forceset/SUP/fiber_length
+y[82] = /forceset/BIClong/activation
+y[83] = /forceset/BIClong/fiber_length
+y[84] = /forceset/BICshort/activation
+y[85] = /forceset/BICshort/fiber_length
+y[86] = /forceset/BRA/activation
+y[87] = /forceset/BRA/fiber_length
+y[88] = /forceset/BRD/activation
+y[89] = /forceset/BRD/fiber_length
+y[90] = /forceset/ECRL/activation
+y[91] = /forceset/ECRL/fiber_length
+y[92] = /forceset/ECRB/activation
+y[93] = /forceset/ECRB/fiber_length
+y[94] = /forceset/ECU/activation
+y[95] = /forceset/ECU/fiber_length
+y[96] = /forceset/FCR/activation
+y[97] = /forceset/FCR/fiber_length
+y[98] = /forceset/FCU/activation
+y[99] = /forceset/FCU/fiber_length
+y[100] = /forceset/PL/activation
+y[101] = /forceset/PL/fiber_length
+y[102] = /forceset/PT/activation
+y[103] = /forceset/PT/fiber_length
+y[104] = /forceset/PQ/activation
+y[105] = /forceset/PQ/fiber_length
+y[106] = /forceset/FDSL/activation
+y[107] = /forceset/FDSL/fiber_length
+y[108] = /forceset/FDSR/activation
+y[109] = /forceset/FDSR/fiber_length
+y[110] = /forceset/FDSM/activation
+y[111] = /forceset/FDSM/fiber_length
+y[112] = /forceset/FDSI/activation
+y[113] = /forceset/FDSI/fiber_length
+y[114] = /forceset/FDPL/activation
+y[115] = /forceset/FDPL/fiber_length
+y[116] = /forceset/FDPR/activation
+y[117] = /forceset/FDPR/fiber_length
+y[118] = /forceset/FDPM/activation
+y[119] = /forceset/FDPM/fiber_length
+y[120] = /forceset/FDPI/activation
+y[121] = /forceset/FDPI/fiber_length
+y[122] = /forceset/EDCL/activation
+y[123] = /forceset/EDCL/fiber_length
+y[124] = /forceset/EDCR/activation
+y[125] = /forceset/EDCR/fiber_length
+y[126] = /forceset/EDCM/activation
+y[127] = /forceset/EDCM/fiber_length
+y[128] = /forceset/EDCI/activation
+y[129] = /forceset/EDCI/fiber_length
+y[130] = /forceset/EDM/activation
+y[131] = /forceset/EDM/fiber_length
+y[132] = /forceset/EIP/activation
+y[133] = /forceset/EIP/fiber_length
+y[134] = /forceset/EPL/activation
+y[135] = /forceset/EPL/fiber_length
+y[136] = /forceset/EPB/activation
+y[137] = /forceset/EPB/fiber_length
+y[138] = /forceset/FPL/activation
+y[139] = /forceset/FPL/fiber_length
+y[140] = /forceset/APL/activation
+y[141] = /forceset/APL/fiber_length
+
+[2025-10-24 14:20:47.263] [info] Integrating from 0.0 to 5.0.
+[2025-10-24 14:20:47.802] [warning] Coordinate.setValue:  coordinate r_z is locked. Unable to change its value.
+[2025-10-24 14:25:24.929] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:24.929] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:24.950] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:24.950] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:24.966] [warning] Running tool MoBL_ARMS_Upper_Limb_Model_OpenSim...
+[2025-10-24 14:25:24.966] [info] No external loads will be applied (external loads file not specified).
+[2025-10-24 14:25:24.967] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:24.967] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:24.992] [cout] [info] MODEL: MoBL_ARMS_Upper_Limb_Model_OpenSim
+
+numStates = 142
+numCoordinates = 21
+numSpeeds = 21
+numActuators = 50
+numBodies = 12
+numConstraints = 13
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 12)
+body[0] = thorax. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[1] = clavicle. mass: 0.156
+              moments of inertia:  ~[0.00024259,0.00025526,4.442e-05]
+              products of inertia: ~[-1.898e-05,-6.994e-05,5.371e-05]
+body[2] = clavphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[3] = scapula. mass: 0.70396
+              moments of inertia:  ~[0.0012429,0.0011504,0.0013651]
+              products of inertia: ~[0.0004494,0.00040922,0.0002411]
+body[4] = scapphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[5] = humphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[6] = humphant1. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[7] = humerus. mass: 1.99757
+              moments of inertia:  ~[0.0122776,0.00255133,0.0125789]
+              products of inertia: ~[-0.00034741,-0.0002325,0.0012293]
+body[8] = ulna. mass: 1.1053
+              moments of inertia:  ~[0.00541309,0.00115318,0.00494361]
+              products of inertia: ~[0.00031686,-7.615e-05,0.00109169]
+body[9] = radius. mass: 0.23359
+              moments of inertia:  ~[0.00043855,8.859e-05,0.00040258]
+              products of inertia: ~[3.014e-05,-4.24e-06,6.418e-05]
+body[10] = proximal_row. mass: 0.0001
+              moments of inertia:  ~[1e-05,1e-05,1e-05]
+              products of inertia: ~[0,0,0]
+body[11] = hand. mass: 0.5819
+              moments of inertia:  ~[0.00011,6e-05,0.00015]
+              products of inertia: ~[9e-07,-2e-07,1.2e-05]
+
+JOINTS (total: 12)
+joint[0] = groundthorax. parent: ground_offset, child: thorax_offset
+joint[1] = sternoclavicular. parent: thorax_offset, child: clavicle_offset
+joint[2] = unrotscap. parent: clavicle_offset, child: clavphant_offset
+joint[3] = acromioclavicular. parent: clavphant_offset, child: scapula_offset
+joint[4] = unrothum. parent: scapula_offset, child: scapphant_offset
+joint[5] = shoulder0. parent: scapphant_offset, child: humphant_offset
+joint[6] = shoulder1. parent: humphant_offset, child: humphant1_offset
+joint[7] = shoulder2. parent: humphant1_offset, child: humerus_offset
+joint[8] = elbow. parent: humerus_offset, child: ulna_offset
+joint[9] = radioulnar. parent: ulna_offset, child: radius_offset
+joint[10] = radiocarpal. parent: radius_offset, child: proximal_row_offset
+joint[11] = wrist_hand. parent: proximal_row_offset, child: hand_offset
+
+ACTUATORS (total: 50)
+actuator[0] = DELT1
+actuator[1] = DELT2
+actuator[2] = DELT3
+actuator[3] = SUPSP
+actuator[4] = INFSP
+actuator[5] = SUBSC
+actuator[6] = TMIN
+actuator[7] = TMAJ
+actuator[8] = PECM1
+actuator[9] = PECM2
+actuator[10] = PECM3
+actuator[11] = LAT1
+actuator[12] = LAT2
+actuator[13] = LAT3
+actuator[14] = CORB
+actuator[15] = TRIlong
+actuator[16] = TRIlat
+actuator[17] = TRImed
+actuator[18] = ANC
+actuator[19] = SUP
+actuator[20] = BIClong
+actuator[21] = BICshort
+actuator[22] = BRA
+actuator[23] = BRD
+actuator[24] = ECRL
+actuator[25] = ECRB
+actuator[26] = ECU
+actuator[27] = FCR
+actuator[28] = FCU
+actuator[29] = PL
+actuator[30] = PT
+actuator[31] = PQ
+actuator[32] = FDSL
+actuator[33] = FDSR
+actuator[34] = FDSM
+actuator[35] = FDSI
+actuator[36] = FDPL
+actuator[37] = FDPR
+actuator[38] = FDPM
+actuator[39] = FDPI
+actuator[40] = EDCL
+actuator[41] = EDCR
+actuator[42] = EDCM
+actuator[43] = EDCI
+actuator[44] = EDM
+actuator[45] = EIP
+actuator[46] = EPL
+actuator[47] = EPB
+actuator[48] = FPL
+actuator[49] = APL
+
+STATES (total: 142)
+y[0] = /jointset/groundthorax/r_z/value
+y[1] = /jointset/groundthorax/r_z/speed
+y[2] = /jointset/sternoclavicular/sternoclavicular_r2/value
+y[3] = /jointset/sternoclavicular/sternoclavicular_r2/speed
+y[4] = /jointset/sternoclavicular/sternoclavicular_r3/value
+y[5] = /jointset/sternoclavicular/sternoclavicular_r3/speed
+y[6] = /jointset/unrotscap/unrotscap_r3/value
+y[7] = /jointset/unrotscap/unrotscap_r3/speed
+y[8] = /jointset/unrotscap/unrotscap_r2/value
+y[9] = /jointset/unrotscap/unrotscap_r2/speed
+y[10] = /jointset/acromioclavicular/acromioclavicular_r2/value
+y[11] = /jointset/acromioclavicular/acromioclavicular_r2/speed
+y[12] = /jointset/acromioclavicular/acromioclavicular_r3/value
+y[13] = /jointset/acromioclavicular/acromioclavicular_r3/speed
+y[14] = /jointset/acromioclavicular/acromioclavicular_r1/value
+y[15] = /jointset/acromioclavicular/acromioclavicular_r1/speed
+y[16] = /jointset/unrothum/unrothum_r1/value
+y[17] = /jointset/unrothum/unrothum_r1/speed
+y[18] = /jointset/unrothum/unrothum_r3/value
+y[19] = /jointset/unrothum/unrothum_r3/speed
+y[20] = /jointset/unrothum/unrothum_r2/value
+y[21] = /jointset/unrothum/unrothum_r2/speed
+y[22] = /jointset/shoulder0/elv_angle/value
+y[23] = /jointset/shoulder0/elv_angle/speed
+y[24] = /jointset/shoulder1/shoulder_elv/value
+y[25] = /jointset/shoulder1/shoulder_elv/speed
+y[26] = /jointset/shoulder1/shoulder1_r2/value
+y[27] = /jointset/shoulder1/shoulder1_r2/speed
+y[28] = /jointset/shoulder2/shoulder_rot/value
+y[29] = /jointset/shoulder2/shoulder_rot/speed
+y[30] = /jointset/elbow/elbow_flexion/value
+y[31] = /jointset/elbow/elbow_flexion/speed
+y[32] = /jointset/radioulnar/pro_sup/value
+y[33] = /jointset/radioulnar/pro_sup/speed
+y[34] = /jointset/radiocarpal/deviation/value
+y[35] = /jointset/radiocarpal/deviation/speed
+y[36] = /jointset/radiocarpal/flexion/value
+y[37] = /jointset/radiocarpal/flexion/speed
+y[38] = /jointset/wrist_hand/wrist_hand_r1/value
+y[39] = /jointset/wrist_hand/wrist_hand_r1/speed
+y[40] = /jointset/wrist_hand/wrist_hand_r3/value
+y[41] = /jointset/wrist_hand/wrist_hand_r3/speed
+y[42] = /forceset/DELT1/activation
+y[43] = /forceset/DELT1/fiber_length
+y[44] = /forceset/DELT2/activation
+y[45] = /forceset/DELT2/fiber_length
+y[46] = /forceset/DELT3/activation
+y[47] = /forceset/DELT3/fiber_length
+y[48] = /forceset/SUPSP/activation
+y[49] = /forceset/SUPSP/fiber_length
+y[50] = /forceset/INFSP/activation
+y[51] = /forceset/INFSP/fiber_length
+y[52] = /forceset/SUBSC/activation
+y[53] = /forceset/SUBSC/fiber_length
+y[54] = /forceset/TMIN/activation
+y[55] = /forceset/TMIN/fiber_length
+y[56] = /forceset/TMAJ/activation
+y[57] = /forceset/TMAJ/fiber_length
+y[58] = /forceset/PECM1/activation
+y[59] = /forceset/PECM1/fiber_length
+y[60] = /forceset/PECM2/activation
+y[61] = /forceset/PECM2/fiber_length
+y[62] = /forceset/PECM3/activation
+y[63] = /forceset/PECM3/fiber_length
+y[64] = /forceset/LAT1/activation
+y[65] = /forceset/LAT1/fiber_length
+y[66] = /forceset/LAT2/activation
+y[67] = /forceset/LAT2/fiber_length
+y[68] = /forceset/LAT3/activation
+y[69] = /forceset/LAT3/fiber_length
+y[70] = /forceset/CORB/activation
+y[71] = /forceset/CORB/fiber_length
+y[72] = /forceset/TRIlong/activation
+y[73] = /forceset/TRIlong/fiber_length
+y[74] = /forceset/TRIlat/activation
+y[75] = /forceset/TRIlat/fiber_length
+y[76] = /forceset/TRImed/activation
+y[77] = /forceset/TRImed/fiber_length
+y[78] = /forceset/ANC/activation
+y[79] = /forceset/ANC/fiber_length
+y[80] = /forceset/SUP/activation
+y[81] = /forceset/SUP/fiber_length
+y[82] = /forceset/BIClong/activation
+y[83] = /forceset/BIClong/fiber_length
+y[84] = /forceset/BICshort/activation
+y[85] = /forceset/BICshort/fiber_length
+y[86] = /forceset/BRA/activation
+y[87] = /forceset/BRA/fiber_length
+y[88] = /forceset/BRD/activation
+y[89] = /forceset/BRD/fiber_length
+y[90] = /forceset/ECRL/activation
+y[91] = /forceset/ECRL/fiber_length
+y[92] = /forceset/ECRB/activation
+y[93] = /forceset/ECRB/fiber_length
+y[94] = /forceset/ECU/activation
+y[95] = /forceset/ECU/fiber_length
+y[96] = /forceset/FCR/activation
+y[97] = /forceset/FCR/fiber_length
+y[98] = /forceset/FCU/activation
+y[99] = /forceset/FCU/fiber_length
+y[100] = /forceset/PL/activation
+y[101] = /forceset/PL/fiber_length
+y[102] = /forceset/PT/activation
+y[103] = /forceset/PT/fiber_length
+y[104] = /forceset/PQ/activation
+y[105] = /forceset/PQ/fiber_length
+y[106] = /forceset/FDSL/activation
+y[107] = /forceset/FDSL/fiber_length
+y[108] = /forceset/FDSR/activation
+y[109] = /forceset/FDSR/fiber_length
+y[110] = /forceset/FDSM/activation
+y[111] = /forceset/FDSM/fiber_length
+y[112] = /forceset/FDSI/activation
+y[113] = /forceset/FDSI/fiber_length
+y[114] = /forceset/FDPL/activation
+y[115] = /forceset/FDPL/fiber_length
+y[116] = /forceset/FDPR/activation
+y[117] = /forceset/FDPR/fiber_length
+y[118] = /forceset/FDPM/activation
+y[119] = /forceset/FDPM/fiber_length
+y[120] = /forceset/FDPI/activation
+y[121] = /forceset/FDPI/fiber_length
+y[122] = /forceset/EDCL/activation
+y[123] = /forceset/EDCL/fiber_length
+y[124] = /forceset/EDCR/activation
+y[125] = /forceset/EDCR/fiber_length
+y[126] = /forceset/EDCM/activation
+y[127] = /forceset/EDCM/fiber_length
+y[128] = /forceset/EDCI/activation
+y[129] = /forceset/EDCI/fiber_length
+y[130] = /forceset/EDM/activation
+y[131] = /forceset/EDM/fiber_length
+y[132] = /forceset/EIP/activation
+y[133] = /forceset/EIP/fiber_length
+y[134] = /forceset/EPL/activation
+y[135] = /forceset/EPL/fiber_length
+y[136] = /forceset/EPB/activation
+y[137] = /forceset/EPB/fiber_length
+y[138] = /forceset/FPL/activation
+y[139] = /forceset/FPL/fiber_length
+y[140] = /forceset/APL/activation
+y[141] = /forceset/APL/fiber_length
+
+[2025-10-24 14:25:24.992] [info] Integrating from 0.0 to 5.0.
+[2025-10-24 14:25:26.737] [error] ForwardTool::run() caught an exception: 
+ Operation Aborted
+[2025-10-24 14:25:44.952] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:44.952] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:44.970] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:44.971] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:44.983] [warning] Running tool MoBL_ARMS_Upper_Limb_Model_OpenSim...
+[2025-10-24 14:25:44.983] [info] No external loads will be applied (external loads file not specified).
+[2025-10-24 14:25:44.984] [warning] Body 'thorax' is massless but nonzero inertia provided.
+[2025-10-24 14:25:44.984] [warning]  Inertia reset to zero. Otherwise provide nonzero mass.
+[2025-10-24 14:25:44.999] [cout] [info] MODEL: MoBL_ARMS_Upper_Limb_Model_OpenSim
+
+numStates = 142
+numCoordinates = 21
+numSpeeds = 21
+numActuators = 50
+numBodies = 12
+numConstraints = 13
+numProbes = 0
+
+ANALYSES (total: 2)
+analysis[0] = Un-named analysis.
+analysis[1] = Un-named analysis.
+
+BODIES (total: 12)
+body[0] = thorax. mass: 0
+              moments of inertia:  ~[0,0,0]
+              products of inertia: ~[0,0,0]
+body[1] = clavicle. mass: 0.156
+              moments of inertia:  ~[0.00024259,0.00025526,4.442e-05]
+              products of inertia: ~[-1.898e-05,-6.994e-05,5.371e-05]
+body[2] = clavphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[3] = scapula. mass: 0.70396
+              moments of inertia:  ~[0.0012429,0.0011504,0.0013651]
+              products of inertia: ~[0.0004494,0.00040922,0.0002411]
+body[4] = scapphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[5] = humphant. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[6] = humphant1. mass: 0.0001
+              moments of inertia:  ~[1,1,1]
+              products of inertia: ~[0,0,0]
+body[7] = humerus. mass: 1.99757
+              moments of inertia:  ~[0.0122776,0.00255133,0.0125789]
+              products of inertia: ~[-0.00034741,-0.0002325,0.0012293]
+body[8] = ulna. mass: 1.1053
+              moments of inertia:  ~[0.00541309,0.00115318,0.00494361]
+              products of inertia: ~[0.00031686,-7.615e-05,0.00109169]
+body[9] = radius. mass: 0.23359
+              moments of inertia:  ~[0.00043855,8.859e-05,0.00040258]
+              products of inertia: ~[3.014e-05,-4.24e-06,6.418e-05]
+body[10] = proximal_row. mass: 0.0001
+              moments of inertia:  ~[1e-05,1e-05,1e-05]
+              products of inertia: ~[0,0,0]
+body[11] = hand. mass: 0.5819
+              moments of inertia:  ~[0.00011,6e-05,0.00015]
+              products of inertia: ~[9e-07,-2e-07,1.2e-05]
+
+JOINTS (total: 12)
+joint[0] = groundthorax. parent: ground_offset, child: thorax_offset
+joint[1] = sternoclavicular. parent: thorax_offset, child: clavicle_offset
+joint[2] = unrotscap. parent: clavicle_offset, child: clavphant_offset
+joint[3] = acromioclavicular. parent: clavphant_offset, child: scapula_offset
+joint[4] = unrothum. parent: scapula_offset, child: scapphant_offset
+joint[5] = shoulder0. parent: scapphant_offset, child: humphant_offset
+joint[6] = shoulder1. parent: humphant_offset, child: humphant1_offset
+joint[7] = shoulder2. parent: humphant1_offset, child: humerus_offset
+joint[8] = elbow. parent: humerus_offset, child: ulna_offset
+joint[9] = radioulnar. parent: ulna_offset, child: radius_offset
+joint[10] = radiocarpal. parent: radius_offset, child: proximal_row_offset
+joint[11] = wrist_hand. parent: proximal_row_offset, child: hand_offset
+
+ACTUATORS (total: 50)
+actuator[0] = DELT1
+actuator[1] = DELT2
+actuator[2] = DELT3
+actuator[3] = SUPSP
+actuator[4] = INFSP
+actuator[5] = SUBSC
+actuator[6] = TMIN
+actuator[7] = TMAJ
+actuator[8] = PECM1
+actuator[9] = PECM2
+actuator[10] = PECM3
+actuator[11] = LAT1
+actuator[12] = LAT2
+actuator[13] = LAT3
+actuator[14] = CORB
+actuator[15] = TRIlong
+actuator[16] = TRIlat
+actuator[17] = TRImed
+actuator[18] = ANC
+actuator[19] = SUP
+actuator[20] = BIClong
+actuator[21] = BICshort
+actuator[22] = BRA
+actuator[23] = BRD
+actuator[24] = ECRL
+actuator[25] = ECRB
+actuator[26] = ECU
+actuator[27] = FCR
+actuator[28] = FCU
+actuator[29] = PL
+actuator[30] = PT
+actuator[31] = PQ
+actuator[32] = FDSL
+actuator[33] = FDSR
+actuator[34] = FDSM
+actuator[35] = FDSI
+actuator[36] = FDPL
+actuator[37] = FDPR
+actuator[38] = FDPM
+actuator[39] = FDPI
+actuator[40] = EDCL
+actuator[41] = EDCR
+actuator[42] = EDCM
+actuator[43] = EDCI
+actuator[44] = EDM
+actuator[45] = EIP
+actuator[46] = EPL
+actuator[47] = EPB
+actuator[48] = FPL
+actuator[49] = APL
+
+STATES (total: 142)
+y[0] = /jointset/groundthorax/r_z/value
+y[1] = /jointset/groundthorax/r_z/speed
+y[2] = /jointset/sternoclavicular/sternoclavicular_r2/value
+y[3] = /jointset/sternoclavicular/sternoclavicular_r2/speed
+y[4] = /jointset/sternoclavicular/sternoclavicular_r3/value
+y[5] = /jointset/sternoclavicular/sternoclavicular_r3/speed
+y[6] = /jointset/unrotscap/unrotscap_r3/value
+y[7] = /jointset/unrotscap/unrotscap_r3/speed
+y[8] = /jointset/unrotscap/unrotscap_r2/value
+y[9] = /jointset/unrotscap/unrotscap_r2/speed
+y[10] = /jointset/acromioclavicular/acromioclavicular_r2/value
+y[11] = /jointset/acromioclavicular/acromioclavicular_r2/speed
+y[12] = /jointset/acromioclavicular/acromioclavicular_r3/value
+y[13] = /jointset/acromioclavicular/acromioclavicular_r3/speed
+y[14] = /jointset/acromioclavicular/acromioclavicular_r1/value
+y[15] = /jointset/acromioclavicular/acromioclavicular_r1/speed
+y[16] = /jointset/unrothum/unrothum_r1/value
+y[17] = /jointset/unrothum/unrothum_r1/speed
+y[18] = /jointset/unrothum/unrothum_r3/value
+y[19] = /jointset/unrothum/unrothum_r3/speed
+y[20] = /jointset/unrothum/unrothum_r2/value
+y[21] = /jointset/unrothum/unrothum_r2/speed
+y[22] = /jointset/shoulder0/elv_angle/value
+y[23] = /jointset/shoulder0/elv_angle/speed
+y[24] = /jointset/shoulder1/shoulder_elv/value
+y[25] = /jointset/shoulder1/shoulder_elv/speed
+y[26] = /jointset/shoulder1/shoulder1_r2/value
+y[27] = /jointset/shoulder1/shoulder1_r2/speed
+y[28] = /jointset/shoulder2/shoulder_rot/value
+y[29] = /jointset/shoulder2/shoulder_rot/speed
+y[30] = /jointset/elbow/elbow_flexion/value
+y[31] = /jointset/elbow/elbow_flexion/speed
+y[32] = /jointset/radioulnar/pro_sup/value
+y[33] = /jointset/radioulnar/pro_sup/speed
+y[34] = /jointset/radiocarpal/deviation/value
+y[35] = /jointset/radiocarpal/deviation/speed
+y[36] = /jointset/radiocarpal/flexion/value
+y[37] = /jointset/radiocarpal/flexion/speed
+y[38] = /jointset/wrist_hand/wrist_hand_r1/value
+y[39] = /jointset/wrist_hand/wrist_hand_r1/speed
+y[40] = /jointset/wrist_hand/wrist_hand_r3/value
+y[41] = /jointset/wrist_hand/wrist_hand_r3/speed
+y[42] = /forceset/DELT1/activation
+y[43] = /forceset/DELT1/fiber_length
+y[44] = /forceset/DELT2/activation
+y[45] = /forceset/DELT2/fiber_length
+y[46] = /forceset/DELT3/activation
+y[47] = /forceset/DELT3/fiber_length
+y[48] = /forceset/SUPSP/activation
+y[49] = /forceset/SUPSP/fiber_length
+y[50] = /forceset/INFSP/activation
+y[51] = /forceset/INFSP/fiber_length
+y[52] = /forceset/SUBSC/activation
+y[53] = /forceset/SUBSC/fiber_length
+y[54] = /forceset/TMIN/activation
+y[55] = /forceset/TMIN/fiber_length
+y[56] = /forceset/TMAJ/activation
+y[57] = /forceset/TMAJ/fiber_length
+y[58] = /forceset/PECM1/activation
+y[59] = /forceset/PECM1/fiber_length
+y[60] = /forceset/PECM2/activation
+y[61] = /forceset/PECM2/fiber_length
+y[62] = /forceset/PECM3/activation
+y[63] = /forceset/PECM3/fiber_length
+y[64] = /forceset/LAT1/activation
+y[65] = /forceset/LAT1/fiber_length
+y[66] = /forceset/LAT2/activation
+y[67] = /forceset/LAT2/fiber_length
+y[68] = /forceset/LAT3/activation
+y[69] = /forceset/LAT3/fiber_length
+y[70] = /forceset/CORB/activation
+y[71] = /forceset/CORB/fiber_length
+y[72] = /forceset/TRIlong/activation
+y[73] = /forceset/TRIlong/fiber_length
+y[74] = /forceset/TRIlat/activation
+y[75] = /forceset/TRIlat/fiber_length
+y[76] = /forceset/TRImed/activation
+y[77] = /forceset/TRImed/fiber_length
+y[78] = /forceset/ANC/activation
+y[79] = /forceset/ANC/fiber_length
+y[80] = /forceset/SUP/activation
+y[81] = /forceset/SUP/fiber_length
+y[82] = /forceset/BIClong/activation
+y[83] = /forceset/BIClong/fiber_length
+y[84] = /forceset/BICshort/activation
+y[85] = /forceset/BICshort/fiber_length
+y[86] = /forceset/BRA/activation
+y[87] = /forceset/BRA/fiber_length
+y[88] = /forceset/BRD/activation
+y[89] = /forceset/BRD/fiber_length
+y[90] = /forceset/ECRL/activation
+y[91] = /forceset/ECRL/fiber_length
+y[92] = /forceset/ECRB/activation
+y[93] = /forceset/ECRB/fiber_length
+y[94] = /forceset/ECU/activation
+y[95] = /forceset/ECU/fiber_length
+y[96] = /forceset/FCR/activation
+y[97] = /forceset/FCR/fiber_length
+y[98] = /forceset/FCU/activation
+y[99] = /forceset/FCU/fiber_length
+y[100] = /forceset/PL/activation
+y[101] = /forceset/PL/fiber_length
+y[102] = /forceset/PT/activation
+y[103] = /forceset/PT/fiber_length
+y[104] = /forceset/PQ/activation
+y[105] = /forceset/PQ/fiber_length
+y[106] = /forceset/FDSL/activation
+y[107] = /forceset/FDSL/fiber_length
+y[108] = /forceset/FDSR/activation
+y[109] = /forceset/FDSR/fiber_length
+y[110] = /forceset/FDSM/activation
+y[111] = /forceset/FDSM/fiber_length
+y[112] = /forceset/FDSI/activation
+y[113] = /forceset/FDSI/fiber_length
+y[114] = /forceset/FDPL/activation
+y[115] = /forceset/FDPL/fiber_length
+y[116] = /forceset/FDPR/activation
+y[117] = /forceset/FDPR/fiber_length
+y[118] = /forceset/FDPM/activation
+y[119] = /forceset/FDPM/fiber_length
+y[120] = /forceset/FDPI/activation
+y[121] = /forceset/FDPI/fiber_length
+y[122] = /forceset/EDCL/activation
+y[123] = /forceset/EDCL/fiber_length
+y[124] = /forceset/EDCR/activation
+y[125] = /forceset/EDCR/fiber_length
+y[126] = /forceset/EDCM/activation
+y[127] = /forceset/EDCM/fiber_length
+y[128] = /forceset/EDCI/activation
+y[129] = /forceset/EDCI/fiber_length
+y[130] = /forceset/EDM/activation
+y[131] = /forceset/EDM/fiber_length
+y[132] = /forceset/EIP/activation
+y[133] = /forceset/EIP/fiber_length
+y[134] = /forceset/EPL/activation
+y[135] = /forceset/EPL/fiber_length
+y[136] = /forceset/EPB/activation
+y[137] = /forceset/EPB/fiber_length
+y[138] = /forceset/FPL/activation
+y[139] = /forceset/FPL/fiber_length
+y[140] = /forceset/APL/activation
+y[141] = /forceset/APL/fiber_length
+
+[2025-10-24 14:25:45.000] [info] Integrating from 0.0 to 10.0.
+>>>>>>> Stashed changes
